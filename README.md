@@ -1,5 +1,5 @@
 # Hi, I'm Shijie
-2-nd Ph.D. Student in CS at Georgia Institute of Technology (School of Interactive Computing).
+2nd year Ph.D. Student in CS at Georgia Institute of Technology (School of Interactive Computing).
 
 ### 🔗 Connect & Links
 [![Website](https://img.shields.io/badge/Website-shijie--xiao.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://shijie-xiao.github.io/)
